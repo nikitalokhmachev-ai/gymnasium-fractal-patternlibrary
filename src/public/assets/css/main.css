@@ -399,10 +399,14 @@ Banners
 .banner-list li {
   margin: 0 auto var(--grid-gutter-vertical);
   max-width: 20em;
-  padding: 0 1em;
-  text-align: center;
 }
-.banner-list img {
+.teaser-icon {
+  display: block;
+  text-align: center;
+  padding: 0 1em;
+  max-width: 20em;
+}
+.teaser-icon img {
   display: block;
   margin: 0 auto 2rem;
   width: 4rem;

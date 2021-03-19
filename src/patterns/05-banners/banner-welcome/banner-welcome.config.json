@@ -1,6 +1,6 @@
 {
-  "label": "Welcome hero",
-  "title": "Banner: Welcome hero",
+  "title": "Welcome banner",
+  "label": "Welcome banner",
   "context": {
     "hed-welcome": "Put your patterns through their paces",
     "tout-aboutus": "The magazine for <span class=\"w\">design &amp; systems</span>",

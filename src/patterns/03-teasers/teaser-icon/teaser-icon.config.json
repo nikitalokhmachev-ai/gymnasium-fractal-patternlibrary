@@ -1,0 +1,7 @@
+{
+  "preview": "@preview-constrained",
+  "context": {
+    "icon": "calendar-full",
+    "text": "Sample text goes here, 15–20 words"
+  }
+}

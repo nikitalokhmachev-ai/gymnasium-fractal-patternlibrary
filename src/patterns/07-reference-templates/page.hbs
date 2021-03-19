@@ -1,0 +1,19 @@
+{{ render "@global-header" }}
+
+<main id="content">
+
+  {{ render "@banner-welcome" }}
+
+  {{ render "@list-articles" list_articles }}
+
+  {{ render "@list-authors" list_authors }}
+
+  {{ render "@banner-subscribe" subscribe }}
+
+  {{ render "@list-products" product_list }}
+
+  {{ render "@list-products-detailed" products_detailed merge="true" }}
+
+</main>
+
+{{render "@footer" }}

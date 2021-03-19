@@ -1,0 +1,14 @@
+<section class="section-authors" aria-labelledby="{{ section_hed.slug }}">
+  <div class="layout-region">
+    {{render "@headline-section" section_hed }}
+
+    <ul class="item-grid">
+      {{#each people}}
+      <li>
+        {{render "@teaser-circled" this}}
+      </li>
+      {{/each}}
+    </ul>
+
+  </div>
+</section>

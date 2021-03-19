@@ -1,0 +1,14 @@
+<section class="banner banner-subscribe">
+  <div class="layout-region">
+    <h2 class="banner-head__featured">{{ headline }}</h2>
+
+    <ul class="banner-list">
+      {{#each items}}
+      <li>
+        <img src="/assets/svg/lib/{{ icon }}.svg" alt="" />
+        {{ text }}
+      </li>
+      {{/each}}
+    </ul>
+  </div>
+</section>

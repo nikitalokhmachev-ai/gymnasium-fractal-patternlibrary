@@ -1,0 +1,11 @@
+{
+  "title": "Section headline",
+  "label": "Section headline",
+  "context": {
+    "title": "Headline goes here",
+    "link-more": {
+      "url-more": "#",
+      "text-more": "More info"
+    }
+  }
+}

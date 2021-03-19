@@ -1,0 +1,44 @@
+{
+  "title": "Author list",
+  "label": "Author list",
+  "context": {
+    "section_hed": {
+      "slug": "section-hed",
+      "title": "Author listing",
+      "url-more": "#",
+      "text-more": "See all authors"
+    },
+    "people": [
+      {
+        "image-url": "/assets/img/fpo-200x200.png",
+        "url": "#",
+        "name": "Person name"    
+      },
+      {
+        "image-url": "/assets/img/fpo-200x200.png",
+        "url": "#",
+        "name": "Person name"    
+      },
+      {
+        "image-url": "/assets/img/fpo-200x200.png",
+        "url": "#",
+        "name": "Person name"    
+      },
+      {
+        "image-url": "/assets/img/fpo-200x200.png",
+        "url": "#",
+        "name": "Person name"    
+      },
+      {
+        "image-url": "/assets/img/fpo-200x200.png",
+        "url": "#",
+        "name": "Person name"    
+      },
+      {
+        "image-url": "/assets/img/fpo-200x200.png",
+        "url": "#",
+        "name": "Person name"    
+      }
+    ]
+  }
+}

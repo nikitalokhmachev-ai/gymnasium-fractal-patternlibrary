@@ -1,0 +1,21 @@
+{
+  "title": "Banner: Subscribe promo",
+  "label": "Subscribe promo",
+  "context": {
+    "headline": "Subscribe for the design systems news you need, when you need it",
+    "items": [
+      {
+        "icon": "calendar-full",
+        "text": "A new issue each month, delivered directly to you."
+      },
+      {
+        "icon": "arrow-down-circle",
+        "text": "Our magazine’s available for reading online or offline."
+      },
+      {
+        "icon": "mail",
+        "text": "Want a digital-only subscription? No problem."
+      }
+    ]
+  }
+}

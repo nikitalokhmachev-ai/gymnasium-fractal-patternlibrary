@@ -1,0 +1,14 @@
+  <section aria-labelledby="{{ section_hed.slug }}">
+    <div class="layout-region">
+      {{render "@headline-section" section_hed }}
+
+      <ul class="item-grid">
+        {{#each products}}
+        <li>
+          {{render "@card" this}}
+        </li>
+        {{/each}}
+      </ul>
+
+    </div>
+  </section>

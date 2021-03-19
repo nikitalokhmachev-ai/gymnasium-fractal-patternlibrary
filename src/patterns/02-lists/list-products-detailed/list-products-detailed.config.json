@@ -1,0 +1,54 @@
+{
+  "title": "Products (detailed)",
+  "label": "Product listing (detailed)",
+  "context": {
+    "section_hed": {
+      "slug": "section-hed",
+      "title": "Product listing",
+      "url-more": "#",
+      "text-more": "See all products"
+    },
+    "products": [
+      {
+        "image-url": "/assets/img/fpo-300x300.png",
+        "name": "Product name",
+        "price": "799",
+        "rating-num": "5",
+        "rating-word": "four",
+        "tag-name": "Sale",
+        "tag-slug": "sale",
+        "url": "#"
+      },
+      {
+        "image-url": "/assets/img/fpo-300x300.png",
+        "name": "Product name",
+        "price": "499",
+        "rating-num": "2",
+        "rating-word": "two",
+        "tag-name": "Sale",
+        "tag-slug": "sale",
+        "url": "#"
+      },
+      {
+        "image-url": "/assets/img/fpo-300x300.png",
+        "name": "Product name",
+        "price": "99",
+        "rating-num": "1",
+        "rating-word": "one",
+        "tag-name": "Sale",
+        "tag-slug": "sale",
+        "url": "#"
+      },
+      {
+        "image-url": "/assets/img/fpo-300x300.png",
+        "name": "Product name",
+        "price": "199",
+        "rating-num": "3",
+        "rating-word": "three",
+        "tag-name": "Sale",
+        "tag-slug": "sale",
+        "url": "#"
+      }
+    ]
+  }
+}

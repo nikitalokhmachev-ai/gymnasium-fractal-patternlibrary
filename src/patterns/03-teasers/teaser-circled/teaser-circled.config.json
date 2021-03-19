@@ -1,0 +1,8 @@
+{
+  "preview": "@preview-constrained",
+  "context": {
+    "image-url": "http://fpoimg.com/200x200",
+    "url": "#",
+    "name": "Person name"
+  }
+}

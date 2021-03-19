@@ -1,0 +1,6 @@
+<h2 class="section-hed{{#if link-more }} has-more{{/if}}" {{#if slug}} id="{{ slug }}"{{/if}}>
+  {{ title }}
+  {{#if link-more }}
+  {{ render "@link-more" link-more }}
+  {{/if}}
+</h2>

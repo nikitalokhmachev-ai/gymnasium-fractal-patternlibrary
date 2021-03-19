@@ -1,0 +1,25 @@
+{
+  "title": "Global header",
+  "label": "Global header",
+  "context": {
+    "nav_items": [
+      {
+        "url": "#",
+        "name": "In The Magazine"
+      },
+      {
+        "url": "#",
+        "name": "Patterns & Principles"
+      },
+      {
+        "url": "#",
+        "name": "Book Reviews"
+      },
+      {
+        "url": "#",
+        "name": "Subscribe"
+      }
+    ]
+  }
+
+}

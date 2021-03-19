@@ -1,0 +1,22 @@
+{
+  "name": "aquent-patternlibrary",
+  "version": "1.0.0",
+  "description": "A simple pattern library for demo purposes, created for Ethan Marcotte’s courses for Aquent Gymnasium.",
+  "scripts": {
+    "start": "fractal start --sync",
+    "build": "fractal build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beep/aquent-patternlibrary.git"
+  },
+  "author": "Ethan Marcotte",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/beep/aquent-patternlibrary/issues"
+  },
+  "homepage": "https://github.com/beep/aquent-patternlibrary#readme",
+  "dependencies": {
+    "@frctl/fractal": "^1.3.0"
+  }
+}

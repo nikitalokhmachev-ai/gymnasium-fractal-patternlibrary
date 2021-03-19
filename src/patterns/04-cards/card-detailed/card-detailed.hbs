@@ -1,0 +1,13 @@
+<a class="card card__detailed" href="{{ url }}">
+  <img class="teaser-thumb teaser-thumb__card" src="{{ image-url }}" alt="" />
+  <div class="card-body">
+    <span class="teaser-name">
+      {{#if tag-name}}
+      <span class="tag tag-{{ tag-slug }}">{{ tag-name }}<span class="sr-only">:</span></span>
+      {{/if}}
+      {{ name }}
+    </span>
+    <span class="info-price">${{ price }}</span>
+    <span class="info-rating stars-{{ rating-num }}">Rated {{ rating-word }} out of five stars</span>
+  </div>
+</a>

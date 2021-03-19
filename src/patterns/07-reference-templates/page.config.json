@@ -1,0 +1,182 @@
+{
+  "title": "Homepage",
+  "label": "Homepage",
+  "preview": "@preview-page",
+  "context": {
+    "list_articles": {
+      "section_hed": {
+        "slug": "section-hed",
+        "title": "More from the magazine",
+        "link-more": {
+          "url-more": "#",
+          "text-more": "Read more articles"
+        }
+      },
+      "articles": [
+        {
+          "author": "Color McPaletteson",
+          "title": "Design tokens I have known",
+          "url-image": "/assets/img/fpo-400x300.png",
+          "url": "#"
+        },
+        {
+          "author": "Ethan Marcotte",
+          "title": "Sketch and Sketching",
+          "url-image": "/assets/img/fpo-400x300.png",
+          "url": "#"
+        },
+        {
+          "author": "The Editors",
+          "title": "Design Systems Today",
+          "url-image": "/assets/img/fpo-400x300.png",
+          "url": "#"
+        }
+      ]
+    },
+    "list_authors": {
+      "section_hed": {
+        "slug": "section-hed--authors",
+        "title": "The latest on design systems from—and for—designers"
+      },
+      "people": [
+        {
+          "image-url": "/assets/img/headshots/livia-labate.jpg",
+          "url": "#",
+          "name": "Lìvia Labate"
+        },
+        {
+          "image-url": "/assets/img/headshots/charlotte-jackson.jpg",
+          "url": "#",
+          "name": "Charlotte Jackson"
+        },
+        {
+          "image-url": "/assets/img/headshots/anna-debenham.jpg",
+          "url": "#",
+          "name": "Anna Debenham"
+        },
+        {
+          "image-url": "/assets/img/headshots/karen-mcgrane.jpg",
+          "url": "#",
+          "name": "Karen McGrane"
+        },
+        {
+          "image-url": "/assets/img/headshots/mina-markham.jpg",
+          "url": "#",
+          "name": "Mina Markham"
+        },
+        {
+          "image-url": "/assets/img/headshots/yesenia-perez-cruz.jpg",
+          "url": "#",
+          "name": "Yesenia Perez-Cruz"
+        }
+      ]
+    },
+    "subscribe": {
+      "headline": "Subscribe today",
+      "items": [
+        {
+          "icon": "calendar-full",
+          "text": "A new issue delivered every month"
+        },
+        {
+          "icon": "mail",
+          "text": "Direct access to twenty years of our back catalog"
+        },
+        {
+          "icon": "arrow-down-circle",
+          "text": "The design systems inspiration you need, when you need it"
+        }
+      ]
+    },
+    "product_list": {
+      "section_hed": {
+        "slug": "section-hed--whats-new",
+        "title": "This season’s hot patterns",
+        "link-more": {
+          "url-more": "#",
+          "text-more": "See more patterns"
+        }
+      },
+      "products": [
+        {
+          "image-url": "/assets/img/patterns/logos.png",
+          "url": "#",
+          "name": "Logos"
+        },
+        {
+          "image-url": "/assets/img/patterns/fields.png",
+          "url": "#",
+          "name": "Form fields"
+        },
+        {
+          "image-url": "/assets/img/patterns/links.png",
+          "url": "#",
+          "name": "Links"
+        },
+        {
+          "image-url": "/assets/img/patterns/headlines.png",
+          "url": "#",
+          "name": "Headlines"
+        },
+        {
+          "image-url": "/assets/img/patterns/footer.png",
+          "url": "#",
+          "name": "Footers"
+        },
+        {
+          "image-url": "/assets/img/patterns/images.png",
+          "url": "#",
+          "name": "Images"
+        }
+      ]
+    },
+    "products_detailed": {
+      "section_hed": {
+        "slug": "section-hed--hot-deals",
+        "title": "Some of our favorite reads",
+        "link-more": {
+          "url-more": "#",
+          "text-more": "See more books"
+        }
+      },
+      "products": [
+        {
+          "image-url": "/assets/img/covers/expressive.jpg",
+          "name": "Expressive Design Systems",
+          "price": "24",
+          "rating-num": "5",
+          "rating-word": "four",
+          "url": "#"
+        },
+        {
+          "image-url": "/assets/img/covers/designsystems.jpg",
+          "name": "Design Systems",
+          "price": "39",
+          "rating-num": "5",
+          "rating-word": "five",
+          "tag-name": "Hot",
+          "tag-slug": "hot",
+          "url": "#"
+        },
+        {
+          "image-url": "/assets/img/covers/foundations.jpg",
+          "name": "Laying the Foundations",
+          "price": "25",
+          "rating-num": "4",
+          "rating-word": "four",
+          "tag-name": "Deal",
+          "tag-slug": "deal",
+          "url": "#"
+        },
+        {
+          "image-url": "/assets/img/covers/rdpp.jpg",
+          "name": "Responsive Design: Patterns & Principles",
+          "price": "24",
+          "rating-num": "3",
+          "rating-word": "three",
+          "url": "#"
+        }
+      ]
+    }
+  }
+}

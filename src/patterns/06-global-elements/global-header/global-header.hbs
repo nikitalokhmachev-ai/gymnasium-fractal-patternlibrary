@@ -1,0 +1,38 @@
+<header>
+  <div class="layout-region">
+    <div class="site-mast">
+
+      <a class="site-logo" href="#">
+        {{{ inline (path '/assets/svg/dswr-logo.svg') }}}
+      </a>
+
+      <nav class="site-nav">
+        <button class="site-nav--toggle"></button>
+        <ul class="site-nav-list">
+          {{#each nav_items}}
+          <li class="site-nav-item"><a class="site-nav-link" href="{{ url }}">{{ name }}</a></li>
+          {{/each}}
+        </ul>
+
+        <ul class="account-links">
+          <li>
+            <a href="#">
+              {{{ inline (path '/assets/svg/search.svg') }}}
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              {{{ inline (path '/assets/svg/cart.svg') }}}
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              {{{ inline (path '/assets/svg/profile.svg') }}}
+            </a>
+          </li>
+        </ul>
+      </nav>
+
+    </div>
+  </div>
+</header>

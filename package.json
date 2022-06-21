@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/beep/aquent-patternlibrary#readme",
   "dependencies": {
-    "@frctl/fractal": "^1.3.0"
+    "@frctl/fractal": "^1.5.13"
   }
 }

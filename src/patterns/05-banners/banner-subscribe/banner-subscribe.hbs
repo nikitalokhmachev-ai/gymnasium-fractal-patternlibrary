@@ -5,8 +5,7 @@
     <ul class="banner-list">
       {{#each items}}
       <li>
-        <img src="/assets/svg/lib/{{ icon }}.svg" alt="" />
-        {{ text }}
+        {{> @banner-element }}
       </li>
       {{/each}}
     </ul>

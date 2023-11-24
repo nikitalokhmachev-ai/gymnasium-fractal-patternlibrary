@@ -1,0 +1,8 @@
+{
+    "title": "Banner element for subscribe promo",
+    "label": "Subscribe promo element",
+    "context": {
+        "icon": "calendar-full",
+        "text": "Example text"
+    }
+}
